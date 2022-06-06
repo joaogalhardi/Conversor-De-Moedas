@@ -13,7 +13,7 @@ Conversor de Moedas
 
 # See the project
 
-- <strong>Click here:</strong> https://barber-cut.vercel.app/
+- <strong>Click here:</strong> https://conversor-de-moedas-joaogalhardi.vercel.app/
 
 
 ---
