@@ -2,7 +2,7 @@
 Conversor de Moedas
 </h1>
 
-<h2 align="center"><strong>Landing Page builded with the goal of reinforce acknowledge in HTML, CSS and Javascript and create a barber shop site.</strong></h2>
+<h2 align="center"><strong>Aplication developed with the goal of reinforce acknowledge in Javascript and create a currency converter.</strong></h2>
 
 <div align="center" >
   <img src="./img/gif/barbercut-web.gif" alt="barbercut-web">
