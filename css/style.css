@@ -29,7 +29,7 @@ main h1::before{
   left: 30px;
   background-image: url("../img/real.svg");
   width: 31px;
-  height: 33px;
+  height: 32.99px;
 }
 
 main h1::after{
