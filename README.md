@@ -1,5 +1,5 @@
 <h1 align="center">
-Conversor de Moedas
+Currency Converter
 </h1>
 
 <h2 align="center"><strong>Aplication developed with the goal of reinforce acknowledge in Javascript and create a currency converter.</strong></h2>
